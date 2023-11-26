@@ -1,0 +1,21 @@
+
+.section {
+    width: 350px;
+    height: 220px;
+    padding: 15px 10px 20px 10px;
+    margin-bottom: 30px;
+    border: 2px dotted red;
+    background-color: green;
+}
+
+
+.box{
+    width: 450px;
+    height: 400px;
+    padding: 12px 15px 25px 10px;
+    margin-bottom: 30px;
+    border: 2px dotted red;
+    background-color: green;
+}
+
+
